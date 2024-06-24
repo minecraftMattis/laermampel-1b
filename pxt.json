@@ -1,5 +1,5 @@
 {
-    "name": "laermAmpel-1b",
+    "name": "laermAmpel-1b-sender",
     "description": "",
     "dependencies": {
         "core": "*",
